@@ -1,0 +1,6 @@
+{
+  "name": "MoodQuotes",
+  "description": "An AI-powered quote generator creating meaningful, personalized quotes based on your current emotional state using Google AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
